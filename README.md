@@ -65,20 +65,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-main-beta-six.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit15gg@gmail.com)
 
-### 🎯 About Me
-<div align="center">
-```javascript
-const harshit = {
-  pronouns: "He/Him",
-  location: "India 🇮🇳",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  currentFocus: "Full-Stack Web Development",
-  funFact: "I love turning complex problems into simple solutions",
-  askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "Web Development"],
-  motto: "Code is not just for solving problems — it's for creating experiences."
-};
-```
-</div>
 
 </div>
 
