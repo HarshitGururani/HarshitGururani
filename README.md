@@ -66,7 +66,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit15gg@gmail.com)
 
 ### 🎯 About Me
-
+<div align="center">
 ```javascript
 const harshit = {
   pronouns: "He/Him",
@@ -78,6 +78,7 @@ const harshit = {
   motto: "Code is not just for solving problems — it's for creating experiences."
 };
 ```
+</div>
 
 </div>
 
