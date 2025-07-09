@@ -62,7 +62,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitGururani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=HarshitGururani&theme=tokyonight&hide_border=true)
 
