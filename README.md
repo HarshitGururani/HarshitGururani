@@ -10,18 +10,6 @@
 
 ---
 
-### 🚀 Projects I've Built
-
-**🛒 ShopCart** — Full-stack eCommerce platform with image uploads, admin dashboard and MongoDB integration  
-*Next.js • Node.js • MongoDB • Stripe*
-
-**🏨 Hotel Booking App** — Complete booking solution with secure JWT auth and Stripe payments  
-*React • Express.js • MongoDB • JWT • Stripe*
-
-**📄 AI Resume Builder** — Professional resume generator using AI prompts with clean UI  
-*Next.js • AI Integration • Tailwind CSS*
-
----
 
 ### 🛠️ Technologies I Work With
 
